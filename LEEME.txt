@@ -1,0 +1,31 @@
+SORTEOS · COTILLÓN 26/27 · TOP EVENTOS
+
+VERSIÓN 3 · LAZO QUE SE DESATA Y TARJETAS REALISTAS
+
+SI YA TIENES EL REPOSITORIO DE SORTEOS
+Descomprime este ZIP. En tu repositorio SORTEOS-COTILLON-26-27 pulsa Add file > Upload files, arrastra TODOS los archivos descomprimidos sueltos y pulsa Commit changes. GitHub sustituirá los nombres coincidentes.
+Los archivos antiguos que ya no se usan pueden quedarse; no es necesario borrarlos.
+Tras publicarse, comprueba la web añadiendo ?v=lazo-continuo-3 al final de tu enlace para evitar la copia anterior del navegador.
+
+SI TODAVÍA NO HAS CREADO EL REPOSITORIO
+Nombre sugerido para el repositorio nuevo: SORTEOS-COTILLON-26-27
+
+1. Entra en https://github.com/new con tu cuenta TopEventosyServicios.
+2. Escribe SORTEOS-COTILLON-26-27 como nombre y selecciona Public.
+3. Pulsa Create repository.
+4. Descomprime este ZIP.
+5. Pulsa uploading an existing file (o Add file > Upload files si ya hay archivos).
+6. Sube index.html, top-eventos.png, regalo-realista.png, caja-sin-lazo.png y tarjeta-realista.png SUELTOS, sin carpetas.
+7. Pulsa Commit changes.
+8. Entra en Settings > Pages.
+9. Source: Deploy from a branch. Branch: main. Folder: / (root). Pulsa Save.
+10. Cuando GitHub termine, en Pages aparecerá el enlace de la nueva web.
+
+Si usas el nombre sugerido y esa cuenta, la dirección será:
+https://topeventosyservicios.github.io/SORTEOS-COTILLON-26-27/
+
+FUNCIONAMIENTO
+Toca la pantalla o el regalo: las lazadas se aflojan, los extremos deslizan por el nudo y la cinta se desenrolla y resbala por la caja como una tela continua. Después salta la tapa, la caja se abre entre confeti y aparecen tres tarjetas con 200 EUR en metálico cada una.
+El total mostrado es de 600 EUR.
+Puedes repetir la apertura. No utiliza sonido.
+La página presenta los premios; no realiza una selección de ganadores.
